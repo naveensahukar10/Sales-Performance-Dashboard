@@ -1,6 +1,8 @@
-📊Project Title: Sales Performance Dashboard
+📊Project Title:
+Sales Performance Dashboard
 
 📌 Project Overview:
+
 This project is an interactive Power BI dashboard designed to analyze global sales performance, customer behavior, profitability, and losses across multiple years and regions.
 The dashboard enables business users and decision-makers to:
 • Track key sales KPIs at a glance
@@ -10,20 +12,24 @@ The dashboard enables business users and decision-makers to:
 The dashboard is fully interactive with year-based filtering and dynamic visuals for deeper insights.
 
 📈 Key Business Insights:
+
 • Total Sales: $12.64M across selected years
 • Total Quantity Sold: 178K units
 • Average Delivery Time: 4 days (efficient logistics)
 • Return Orders: 1,079 (area for operational improvement)
 
 Segment Insights:
+
 • Consumer segment contributes the highest share of sales (~51%)
 • Corporate and Home Office segments provide stable secondary revenue
 
 Market Insights:
+
 • Asia Pacific and Europe are the top-performing markets
 • LATAM contributes the lowest revenue share, indicating growth potential
 
 Profitability Insights:
+
 • Products like Canon, Cisco, and Motorola generate the highest profits
 • Certain products consistently incur losses, impacting overall margins
 
